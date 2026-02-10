@@ -82,7 +82,7 @@ See [`LICENSE`](./LICENSE) file for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <div align="center">
-  <img src="https://github.com/aditsuru-git/readme-template/blob/main/assets/footer-team.png?raw=true" alt="Footer Banner" width="100%" style="max-width: 1200px;">
+  <img src="https://github.com/aditsuru/readme-template/blob/main/assets/footer-team.png?raw=true" alt="Footer Banner" width="100%" style="max-width: 1200px;">
 </div>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Homies-Tech-Innovation/cli-chat

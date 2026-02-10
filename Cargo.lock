@@ -138,9 +138,12 @@ checksum = "94143f37725109f92c262ed2cf5e59bce7498c01bcc1502d7b9afe439a4e9f49"
 [[package]]
 name = "server"
 version = "0.1.0"
+<<<<<<< HEAD
 dependencies = [
  "tokio",
 ]
+=======
+>>>>>>> 208d13999fe6ddd5c1f75e6919c1f83f09094cea
 
 [[package]]
 name = "shared"
@@ -211,6 +214,7 @@ dependencies = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "tokio-util"
 version = "0.7.17"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -224,6 +228,8 @@ dependencies = [
 ]
 
 [[package]]
+=======
+>>>>>>> 208d13999fe6ddd5c1f75e6919c1f83f09094cea
 name = "unicode-ident"
 version = "1.0.22"
 source = "registry+https://github.com/rust-lang/crates.io-index"
